@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/devolve-wtf/FriendFinder/issues"
   },
-  "homepage": "https://github.com/devolve-wtf/FriendFinder#readme"
+  "homepage": "https://github.com/devolve-wtf/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "nodemon": "^1.12.0",
+    "path": "^0.12.7"
+  }
 }
